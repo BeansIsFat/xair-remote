@@ -28,7 +28,7 @@ class MixerState:
     """
     
     # ID numbers for all available delay effects
-    _DELAY_FX_IDS = [10, 11, 12, 21, 24, 25, 26]
+    _DELAY_FX_IDS = [11, 12, 21, 24, 25, 26]
     
     fx_slots = [0, 0, 0, 0]
     
